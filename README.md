@@ -18,9 +18,9 @@ import './s.css'<br>
 import styled from 'styled-components';<br><br>
 
 ### `make this constant:-` <br>
-const StyledText = styled.p{<br>
+const StyledText = styled.p`<br>
     font-family: 'Dancing Script', cursive;<br>
-};<br><br>
+<br><br>
 
 ### `and write your name like:-`
 < StyledText>Palash</ StyledText>
