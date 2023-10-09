@@ -37,7 +37,15 @@ const StyledText = styled.p`<br>
 
 ### `and write your name like:-`
 < StyledText>Palash</ StyledText>
+---
+<br><br><br>
+<h2>Now take inspiration from https://iamrealpalash.netlify.app/
+now at the website that how should the projects informations look like,,,,,,but here in the first page design will be same and from 1st page to second page scrolling will be using "Locomotive".
 
+rest information will be same but design will be different accroding to the developers.
+---
+The biggest plus point that you can make this website for hactoberfest and can also deploy your own portfolio changing the information.
+so, Best of luck...........</h1>
 
 <br><br><br>
 
