@@ -1,10 +1,15 @@
 <center>
 <h1>Anyone can contribute in this project and contributing here means you build your own porfolio website.</h1>
 
+<h4>Please make your own branch according to the feature,issue,bug,fix before making a pull request.</h4>
+
+---
+<h3>If anyone wanto to take some inspiration from API then go to here, 👉 https://github.com/iamrealpalash/aTonsOfPublicAPI </h3>
+<br> <h3> Here is available a tons of API which anyone can use in this project or in any of your Own Project </h3><br>
+<h1>Make it Star ⭐ for your future Referances</h1>
 ---
 
-<h4> So lets contrribute here and make your own portfolio visible to everyone.</h4>
-
+<h4>Help each other, be together, grow together. ~iamrealpalash </h4>
 ---
 <h2>
   First Fork this repo (you can star as well for quick access).
@@ -46,7 +51,7 @@ rest information will be same but design will be different accroding to the deve
 ---
 The biggest plus point that you can make this website for hactoberfest and can also deploy your own portfolio changing the information.
 so, Best of luck...........</h1>
-
+<h4> So lets contrribute here and make your own portfolio visible to everyone.</h4>
 <br><br><br>
 
 ### `in same directory make s.css and the use this code:-` <br>
