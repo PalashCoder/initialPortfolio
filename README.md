@@ -1,3 +1,8 @@
+<h3>If anyone wanto to take some inspiration from API then go to here, 👉 https://github.com/iamrealpalash/aTonsOfPublicAPI </h3>
+<br> <h3> Here is available a tons of API which anyone can use in this project or in any of your Own Project </h3><br>
+<h1>Make it Star ⭐ for your future Referances</h1>
+---
+
 In the project directory, you can run:
 
 ### `npm start`
