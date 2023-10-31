@@ -4,7 +4,7 @@ import { Typewriter } from 'react-simple-typewriter'
 function Body() {
   return (
     <>
-      <div className={`bg-[#2699fb] w-full pt-[100px] pb-[150px]`}>
+      <div className={`bg-[#2699fb] w-full h-screen pt-[100px] pb-[150px]`}>
         <div className='max-w-[1240px] md:mt-20 my-2 mx-auto text-center'>
           <div className='md:text-3xl text-xl font-semibold'>
             Hey,
